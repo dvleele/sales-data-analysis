@@ -24,5 +24,6 @@ Công cụ sử dụng:
 - Tập trung quảng cáo mạnh vào khung giờ 18h–22h
 - Ưu tiên phân phối dòng sản phẩm cao cấp tại thành phố lớn (SF, LA)
 
-![image](https://github.com/user-attachments/assets/665837cc-b2f5-4787-9b45-c188a5602065)
+![image](https://github.com/user-attachments/assets/f433bdc8-9251-4761-9fc0-469845460974)
+
 
